@@ -1,0 +1,3 @@
+References:
+
+React Native (2022). React Native· n.d. A framework for building native apps using React. [online] reactnative.dev. Available at: https://reactnative.dev/. [Accessed on 21 August 2023].
