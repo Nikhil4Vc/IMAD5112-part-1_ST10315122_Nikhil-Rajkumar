@@ -1,3 +1,5 @@
 References:
 
-React Native (2022). React Native· n.d. A framework for building native apps using React. [online] reactnative.dev. Available at: https://reactnative.dev/. [Accessed on 21 August 2023].
+Android. (2016). n.d. Android. [online] Available at: https://www.android.com/. [Accessed on 21 August 2023].
+
+W3Schools (2023). n.d. W3Schools Online Web Tutorials. [online] W3schools.com. Available at: https://www.w3schools.com/. [Accessed on 21 August 2023].
